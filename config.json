@@ -1,0 +1,9 @@
+{
+
+  "ConnectionString": {
+    "NorthwindMdf": "Server=(LocalDB)\\MSSQLLocalDB; AttachDbFilename=C:\\Users\\Vaibhav\\Desktop\\Sem#4\\PROG32356 .Net Technologies using C#\\Assignment#2-Vaibhav_Parsana\\introtoDB\\AppData\\Northwind.mdf; Trusted_Connection=Yes;",
+    "NorthwindLocalDB": "Server=(LocalDB)\\MSSQLLocalDB; Database=Northwind; Trusted_Connection=Yes;",
+    "NorthwindSqlServer": "Server=.\\SQLEXPRESS; Database=Northwind; Trusted_Connection=Yes;"
+  }
+}
+
